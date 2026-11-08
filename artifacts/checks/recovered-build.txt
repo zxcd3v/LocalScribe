@@ -1,0 +1,13 @@
+Date: 2026-11-08
+Base release: v0.9.3-UX1
+Base APK SHA-256: bad7914dfc89fdb90897979ae9ec5694427fe8a671e83de8a53dabfaa8298e32
+Apktool: 3.0.3
+Apktool SHA-256: dbf930b076c6b9be08d57c449cacefc3bdd6b71ebd59b3066fc0e1f5b14f9423
+Recovered smali files: 1060
+Assembled DEX files: 13
+Unchanged non-DEX entries (size + CRC): 204
+Unsigned APK size: 2056196153 bytes
+Unsigned APK SHA-256: 7d500a8f2fef7498dbbbe3a19483d5c69cd3c78625a25a5eb894787538bb941b
+Build exit code: 0
+Signing and Android runtime testing of the rebuilt APK: not performed.
+The published signed APK was not replaced.

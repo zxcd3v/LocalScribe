@@ -1,0 +1,11 @@
+test_false_alarm_outside_reference_is_scored (test_score_transcript.MetricsTest.test_false_alarm_outside_reference_is_scored) ... ok
+test_optimal_assignment_matches_exhaustive_search (test_score_transcript.MetricsTest.test_optimal_assignment_matches_exhaustive_search) ... ok
+test_overlap_counts_speaker_time_and_miss (test_score_transcript.MetricsTest.test_overlap_counts_speaker_time_and_miss) ... ok
+test_permuted_speakers_are_not_errors (test_score_transcript.MetricsTest.test_permuted_speakers_are_not_errors) ... ok
+test_switching_one_identity_creates_confusion (test_score_transcript.MetricsTest.test_switching_one_identity_creates_confusion) ... ok
+test_word_insert_delete_substitute (test_score_transcript.MetricsTest.test_word_insert_delete_substitute) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.003s
+
+OK

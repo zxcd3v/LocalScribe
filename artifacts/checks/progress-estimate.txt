@@ -1,0 +1,1 @@
+PASS: progress, ETA, stage reset, stall, unknown signal (12 assertions)
