@@ -1,0 +1,2 @@
+https://github.com/k2-fsa/kaldi-decoder/archive/refs/tags/v0.3.0.tar.gz
+SHA-256: b9f34cfb4fd3b1344100eead79ef4d37aa15962274b9e3056de345021f76a1b0

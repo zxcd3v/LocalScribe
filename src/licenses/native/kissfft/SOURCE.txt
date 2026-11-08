@@ -1,0 +1,2 @@
+https://github.com/mborgerding/kissfft/archive/febd4caeed32e33ad8b2e0bb5ea77542c40f18ec.zip
+SHA-256: 497103e664168ebe39580b757adbe616f6cf85a16572af581ca7bc42d0ab13fd

@@ -1,0 +1,2 @@
+https://github.com/k2-fsa/kaldifst/archive/refs/tags/v1.8.0.tar.gz
+SHA-256: 3f247b7e5a2409071202f5e2bc6200060f66728c0a3443c03923ad2723e040b3

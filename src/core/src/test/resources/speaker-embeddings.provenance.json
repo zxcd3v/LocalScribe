@@ -1,0 +1,13 @@
+{
+  "generator": "tools/native/speaker_fixture.cpp; sherpa-onnx 2.0.1 Linux x86_64 CPU",
+  "window_samples": 19200,
+  "sample_rate": 16000,
+  "scope": "Real model outputs on two Russian speech fixtures. Regression only, not a diarization accuracy benchmark.",
+  "sha256": {
+    "tools/native/speaker_fixture.cpp": "b2f848fc3cf6424d85bbb2e4ca6161462167a9b59b9e85116e787a8004ec13cb",
+    "../../work/model-pack/speaker.onnx": "e9848563da86f263117134dfd7ad63c92355b37de492b55e325400c9d9c39012",
+    "app/src/androidTest/assets/speaker-a.wav": "f55f9320d1aae1f9ca2f3e08979244f5ca8a26115b840e1db6f52cdb26315561",
+    "app/src/androidTest/assets/speaker-b.wav": "c9db355ad6b4123a10a71cc46ced92253b709223573e1fc032286fc0306692f8",
+    "core/src/test/resources/speaker-embeddings.json": "723b74d590eefe61ac4545ae5dd90b08229009eb57a3027c6f2806b89cfece48"
+  }
+}

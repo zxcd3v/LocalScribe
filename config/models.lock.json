@@ -1,0 +1,28 @@
+{
+  "id": "ru-gigaam-v3-tone-wespeaker",
+  "version": "2026-11-07-gigaam-v3-e2e",
+  "files": {
+    "advanced/emo.int8.onnx": "5639b328486d5af9c1a7aff2c584df8319250034310c5a4b7ff4eae95d555b02",
+    "advanced/emo.yaml": "9211da81fc7018babed37b253700e2d58d3ce33ae4478ce9f8f771197c726103",
+    "advanced/moss-manifest.json": "97c593c75fe5d702d4db380342520814eefe60c8aa3c2b93c607069dcbb44e11",
+    "advanced/mossformer2.onnx": "54f956bd96736b6f8713d6d31599c31f12cfe591875768088cbe893193f7f1b6",
+    "advanced/segmentation.int8.onnx": "d582f4b4c6b48205de7e0643c57df0df5615a3c176189be3fc461e9d18827b5d",
+    "gigaam-v3/decoder.onnx": "ea08443676485385c0dd31d938233bffaed6e52d47d84844c9b568589f1c9b27",
+    "gigaam-v3/encoder.int8.onnx": "aa4e9bd1d8f1b30534c0b56d743970be53fd102dba639c2b1cc06e2aa898ada0",
+    "gigaam-v3/joiner.onnx": "ade116563dbf66e503b0994efab6b5861412743e52bf31c39fc3fffa3783d5d1",
+    "gigaam-v3/tokens.txt": "39abae20e692998290c574e606f11a9edef2902a1995463fcff63d1490cf22b7",
+    "licenses/MODELS-NOTICE.txt": "bdd52330540ce5a152961fa7f50eb0b7a18764100ba38487ec53785748fb0d63",
+    "licenses/advanced/GigaAM-MIT.txt": "f00de6715714c7a63d08639cdbfaa40224eefc407302614bd19f1a8b98c875aa",
+    "licenses/advanced/GigaAM-ONNX-attribution.txt": "9e82aed206219032e4eb21349eb97ecff3422052b76613a34a95ba853385f55a",
+    "licenses/advanced/MossFormer-Apache-2.0.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "licenses/advanced/NOTICE.txt": "3e79d1a9298f29a90b94aae6d3dac7b06d76b40c76ac36e4266048977dab962e",
+    "licenses/advanced/pyannote-MIT.txt": "14d7016ad68e7394d6e6b78d96cc2ae431c905287b89674cfdf021e79e62b8ba",
+    "licenses/sherpa-onnx.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "licenses/silero-vad-MIT.txt": "2e63e9a38b6e8fc0c7bc37ce174caca1862870856c6daf5697cfb785e925520b",
+    "silero.onnx": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6",
+    "speaker.onnx": "e9848563da86f263117134dfd7ad63c92355b37de492b55e325400c9d9c39012",
+    "streaming/LICENSE": "c8e6ecb86af681d9815d1ada7b1a7780ea5e5cb68a5df94fc800adab1a6ce027",
+    "streaming/model.onnx": "5ded080e2a6c86ecc11bcb0902d77524eb3e8b0844cb0c0754347f5aafb4dabc",
+    "streaming/tokens.txt": "27f7b3ba2096c572375fba1a6b29af1f80d86e08a329940612908112695f97e0"
+  }
+}

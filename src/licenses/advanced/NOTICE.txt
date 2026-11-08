@@ -1,0 +1,25 @@
+LocalScribe 0.3.0 additional speech analysis models
+
+pyannote segmentation-3.0 INT8, MIT, authors Alexis Plaquet / Herve Bredin (see license).
+Official sherpa conversion: https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-segmentation-models/sherpa-onnx-pyannote-segmentation-3-0.tar.bz2
+Archive SHA-256: 24615ee884c897d9d2ba09bb4d30da6bb1b15e685065962db5b02e76e4996488
+Original: https://huggingface.co/pyannote/segmentation-3.0
+Model is speaker segmentation and overlapped speech detection, NOT source separation.
+
+GigaAM-Emo INT8, four Russian acoustic emotion classes: angry, sad, neutral, positive.
+Original weights and code: SberDevices, MIT (GigaAM-MIT.txt).
+https://github.com/salute-developers/GigaAM
+ONNX conversion and quantization: vvpreo/gigaam-v3-onnx, revision 03cf125f754af526260037bc96f4edf0642e963b
+https://huggingface.co/vvpreo/gigaam-v3-onnx
+No retraining or calibration is claimed. Model probabilities do not prove a person's feelings.
+
+MossFormer2_SS_16K, Alibaba Speech Lab / ClearerVoice-Studio, Apache-2.0.
+https://huggingface.co/alibabasglab/MossFormer2_SS_16K
+https://github.com/modelscope/ClearerVoice-Studio
+ONNX fixed 4-second conversion: mhavo/mossformer2-ss-16k-onnx, revision 3be7f95237b5121caf41dec4c62b0af341a640af
+https://huggingface.co/mhavo/mossformer2-ss-16k-onnx
+Conversion includes static-shape graph transformations documented in upstream MANIFEST.json.
+Two outputs only. We apply least-squares gain correction and overlap-add with channel permutation matching;
+these are signal reconstruction operations, not learned emotion/diarization classifiers.
+
+The supplied ONNX files are byte-for-byte copies of those releases. Individual SHA-256: models.lock.json.

@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "sources": {
+    "editor.cpp": "47cc82240d3f2198de02867f70bebd26d7c52dc5b4930c179e70b50b19e68859",
+    "CMakeLists.txt": "e5d895c1a41a47ca10653548e4ecc52923dd16ae295641d8f6d19a0c5c845c45"
+  },
+  "auxiliaryLibraries": {
+    "x86_64/liblocalscribe_llama_avx.so": "e4a42c617c1f070749d54cab7ad33b1d540e5d719abb1c02b1d61d7f71fe10a4"
+  },
+  "libraries": {
+    "arm64-v8a": "e644eeb6a39a6666ed27924e66a04c1bdc17bc5d2bdabe0a1d6d3ce57952075c",
+    "x86_64": "61e3d0afd0a3d9409abbba6fa5e231997b4c0954c4593a2d2d808636e190af06"
+  }
+}

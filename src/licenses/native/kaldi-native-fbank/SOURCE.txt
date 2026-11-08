@@ -1,0 +1,2 @@
+https://github.com/csukuangfj/kaldi-native-fbank/archive/refs/tags/v1.22.4.tar.gz
+SHA-256: 257fea639585ca6ee00860493bb9d7ab32488b8a5407ffe434c1f361ea545fae

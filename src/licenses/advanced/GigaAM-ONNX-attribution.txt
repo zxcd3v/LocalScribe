@@ -1,0 +1,7 @@
+MIT License
+
+Derived from GigaAM (Copyright SberDevices, MIT License):
+https://github.com/salute-developers/GigaAM
+
+Conversion artifacts (ONNX export + int8 quantization) are distributed
+under the same MIT terms.

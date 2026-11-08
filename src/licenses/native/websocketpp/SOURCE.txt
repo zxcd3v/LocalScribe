@@ -1,0 +1,2 @@
+https://github.com/zaphoyd/websocketpp/archive/b9aeec6eaf3d5610503439b4fae3581d9aff08e8.zip
+SHA-256: 1385135ede8191a7fbef9ec8099e3c5a673d48df0c143958216cd1690567f583

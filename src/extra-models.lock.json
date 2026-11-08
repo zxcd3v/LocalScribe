@@ -1,0 +1,86 @@
+[
+  {
+    "file": "qwen3-0.6b-q8_0.gguf",
+    "group": "Qwen3-0.6B Q8_0 · пунктуация и склонения",
+    "bytes": 639446688,
+    "sha256": "9465e63a22add5354d9bb4b99e90117043c7124007664907259bd16d043bb031"
+  },
+  {
+    "file": "tiny-decoder.int8.onnx",
+    "group": "Whisper Tiny INT8",
+    "bytes": 89855401,
+    "sha256": "d2fece8dd42771f1df975c6c0445770d0c292bf7547c2cae04a6c0cc57540925"
+  },
+  {
+    "file": "tiny-encoder.int8.onnx",
+    "group": "Whisper Tiny INT8",
+    "bytes": 12937772,
+    "sha256": "d24fb083ae3b1041fc24e97971d60e280c9342201fbb67b0ab428a8b4a51a434"
+  },
+  {
+    "file": "tiny-tokens.txt",
+    "group": "Whisper Tiny INT8",
+    "bytes": 816730,
+    "sha256": "b34b360dbb493e781e479794586d661700670d65564001f23024971d1f2fa126"
+  },
+  {
+    "file": "nemotron3.onnx",
+    "group": "Nemotron 3 · участники",
+    "bytes": 402167515,
+    "sha256": "c32d6056f1ca52bdd50a74e1e7c66d91e5147bc29f19ffa4c39cbe5452397d15"
+  },
+  {
+    "file": "wespeaker-voxceleb-resnet34.min_num_samples.txt",
+    "group": "VBx · уточнение участников",
+    "bytes": 4,
+    "sha256": "e4df891c484d7abb985dadf539fa1883a646dab6337af5cae4159c587b7050cc"
+  },
+  {
+    "file": "plda_mean2.npy",
+    "group": "VBx · уточнение участников",
+    "bytes": 640,
+    "sha256": "6f6fb708a2037197b5b84ffeaa8f140cb878088fbecd6ab042ad26a7691bd2cf"
+  },
+  {
+    "file": "plda_mean1.npy",
+    "group": "VBx · уточнение участников",
+    "bytes": 2176,
+    "sha256": "e424c0c352182aa8e0f555dec1f3b30e29a20b9ed6b25d339f112af92e51e36f"
+  },
+  {
+    "file": "plda_psi.npy",
+    "group": "VBx · уточнение участников",
+    "bytes": 1152,
+    "sha256": "d7128c9ed2f28a9781971805131129f077c04f948e2df12e52dcdb99f2b4e5f5"
+  },
+  {
+    "file": "plda_mu.npy",
+    "group": "VBx · уточнение участников",
+    "bytes": 1152,
+    "sha256": "d286d48acf99bbc1ed1502fed0a3e361ae5626ce1870c8be9f7397c5e47886c6"
+  },
+  {
+    "file": "plda_lda.npy",
+    "group": "VBx · уточнение участников",
+    "bytes": 131200,
+    "sha256": "e20c9b012bebd1aabda5a38a127e63a43cf35debdc502715fc143e2fb6bc3c4b"
+  },
+  {
+    "file": "segmentation-3.0.safetensors",
+    "group": "VBx · уточнение участников",
+    "bytes": 5897576,
+    "sha256": "88e7883cf56f679170e162419efddf970f929915281ebce80e351c42b5a7115d"
+  },
+  {
+    "file": "plda_tr.npy",
+    "group": "VBx · уточнение участников",
+    "bytes": 131200,
+    "sha256": "e700b68cb319de3fafb5fa093eb9222c23c447084741f8d3a533640d425510ee"
+  },
+  {
+    "file": "wespeaker-multimask-tail.safetensors",
+    "group": "VBx · уточнение участников",
+    "bytes": 26527656,
+    "sha256": "b97b090ceebcf10924732ad4552a2d867d76d38dcc1409a13687a6ba71ff1ef3"
+  }
+]

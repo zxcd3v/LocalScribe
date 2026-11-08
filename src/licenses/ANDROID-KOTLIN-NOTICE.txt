@@ -1,0 +1,23 @@
+Runtime application dependencies
+
+Kotlin standard library 2.2.21; kotlinx.coroutines 1.10.2; kotlinx.serialization 1.9.0
+Copyright JetBrains s.r.o. and Kotlin Programming Language contributors.
+Apache License 2.0 (full text: sherpa-onnx.txt).
+Sources: https://github.com/JetBrains/kotlin/tree/v2.2.21
+https://github.com/Kotlin/kotlinx.coroutines/tree/1.10.2
+https://github.com/Kotlin/kotlinx.serialization/tree/v1.9.0
+
+AndroidX Activity, Compose, Core, Lifecycle, DocumentFile and their AndroidX dependencies
+Copyright The Android Open Source Project.
+Apache License 2.0 (full text: sherpa-onnx.txt).
+Sources and notices: https://android.googlesource.com/platform/frameworks/support/
+Resolved versions are recorded in reports/runtime-dependencies.txt and Gradle verification-metadata.xml.
+
+Application-specific source code: Apache License 2.0; see the root LICENSE.
+Third-party model weights retain their own licenses; see MODELS-NOTICE.txt.
+
+JetBrains annotations 23.0.0: Apache License 2.0; copyright JetBrains s.r.o.
+JSpecify 1.0.0: Apache License 2.0; copyright JSpecify Authors.
+Guava listenablefuture 1.0: Apache License 2.0; copyright Google Inc.
+License declarations checked in the resolved Maven POMs (Guava parent 26.0-android).
+Full Apache License text is included in sherpa-onnx.txt.

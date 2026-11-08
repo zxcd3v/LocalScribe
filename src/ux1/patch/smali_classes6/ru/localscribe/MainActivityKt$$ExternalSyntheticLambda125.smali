@@ -1,0 +1,64 @@
+.class public final synthetic Lru/localscribe/MainActivityKt$$ExternalSyntheticLambda125;
+.super Ljava/lang/Object;
+.source "D8$$SyntheticClass"
+
+# interfaces
+.implements Lkotlin/jvm/functions/Function3;
+
+
+# instance fields
+.field public final synthetic f$0:Lru/localscribe/core/Settings;
+
+.field public final synthetic f$1:Lkotlin/jvm/functions/Function1;
+
+.field public final synthetic f$2:Z
+
+
+# direct methods
+.method public synthetic constructor <init>(Lru/localscribe/core/Settings;Lkotlin/jvm/functions/Function1;Z)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lru/localscribe/MainActivityKt$$ExternalSyntheticLambda125;->f$0:Lru/localscribe/core/Settings;
+
+    iput-object p2, p0, Lru/localscribe/MainActivityKt$$ExternalSyntheticLambda125;->f$1:Lkotlin/jvm/functions/Function1;
+
+    iput-boolean p3, p0, Lru/localscribe/MainActivityKt$$ExternalSyntheticLambda125;->f$2:Z
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 6
+
+    .line 0
+    iget-object v0, p0, Lru/localscribe/MainActivityKt$$ExternalSyntheticLambda125;->f$0:Lru/localscribe/core/Settings;
+
+    iget-object v1, p0, Lru/localscribe/MainActivityKt$$ExternalSyntheticLambda125;->f$1:Lkotlin/jvm/functions/Function1;
+
+    iget-boolean v2, p0, Lru/localscribe/MainActivityKt$$ExternalSyntheticLambda125;->f$2:Z
+
+    move-object v3, p1
+
+    check-cast v3, Landroidx/compose/foundation/lazy/LazyItemScope;
+
+    move-object v4, p2
+
+    check-cast v4, Landroidx/compose/runtime/Composer;
+
+    check-cast p3, Ljava/lang/Integer;
+
+    invoke-virtual {p3}, Ljava/lang/Integer;->intValue()I
+
+    move-result v5
+
+    invoke-static/range {v0 .. v5}, Lru/localscribe/MainActivityKt;->$r8$lambda$5t6gJi5SZ4Yo5zDx8N7XKGnf--I(Lru/localscribe/core/Settings;Lkotlin/jvm/functions/Function1;ZLandroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+
+    move-result-object p1
+
+    return-object p1
+.end method

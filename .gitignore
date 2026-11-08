@@ -1,0 +1,10 @@
+﻿/artifacts/*.apk
+/artifacts/*.mp4
+**/build/
+**/.gradle/
+**/local.properties
+**/signing/
+**/*.jks
+**/*.keystore
+**/password.txt
+**/__pycache__/

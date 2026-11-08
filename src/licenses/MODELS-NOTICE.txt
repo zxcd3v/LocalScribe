@@ -1,0 +1,7 @@
+Russian file ASR: GigaAM v3 E2E RNN-T by SberDevices (MIT).
+INT8 sherpa-onnx conversion: https://huggingface.co/Alexxerm/gigaam-v3-e2e-rnnt-sherpa-onnx/tree/c0acd38c8aeb2bdc04da221bd661ffcdb9645f7d
+GigaAM MIT license: advanced/GigaAM-MIT.txt.
+English file ASR: OpenAI Whisper Tiny multilingual, sherpa-onnx INT8 export.
+Live ASR: T-one CTC; see streaming/LICENSE in the model pack.
+Silero VAD and sherpa-onnx: see their included licenses.
+Speaker, segmentation, emotion and separation: see advanced/NOTICE.txt.

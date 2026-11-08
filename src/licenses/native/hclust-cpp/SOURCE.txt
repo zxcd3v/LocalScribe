@@ -1,0 +1,2 @@
+https://github.com/csukuangfj/hclust-cpp/archive/refs/tags/2026-02-25.tar.gz
+SHA-256: 8f14e024c709d73afb40ae69cb22de4b73dba67cbce40f2e518813da8139ab56

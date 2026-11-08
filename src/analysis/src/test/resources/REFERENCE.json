@@ -1,0 +1,13 @@
+{
+  "torch": "2.6.0+cpu",
+  "torchaudio": "2.6.0+cpu",
+  "ort": "1.28.0",
+  "preprocess": "Official GigaAM defaults: torchaudio.MelSpectrogram 16k/400/160/64 center reflect power2 HTK",
+  "fixture_emotion_probs": [
+    0.00014902782277204096,
+    0.00015783241542521864,
+    0.9820050001144409,
+    0.017688095569610596
+  ],
+  "source_fixtures": "See project-root test-audio/SOURCES.md; two Russian excerpts RMS normalized .08, B zero padded to4s; no emotional ground truth"
+}

@@ -1,0 +1,6 @@
+// Use Maven Central's canonical endpoint for Robolectric runtime SDK downloads.
+allprojects {
+    tasks.withType(Test).configureEach {
+        systemProperty 'robolectric.dependency.repo.url', 'https://repo.maven.apache.org/maven2'
+    }
+}
