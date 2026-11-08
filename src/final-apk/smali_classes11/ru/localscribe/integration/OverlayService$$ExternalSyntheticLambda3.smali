@@ -1,0 +1,36 @@
+.class public final synthetic Lru/localscribe/integration/OverlayService$$ExternalSyntheticLambda3;
+.super Ljava/lang/Object;
+.source "D8$$SyntheticClass"
+
+# interfaces
+.implements Landroid/view/View$OnTouchListener;
+
+
+# instance fields
+.field public final synthetic f$0:Lru/localscribe/integration/OverlayService;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lru/localscribe/integration/OverlayService;)V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lru/localscribe/integration/OverlayService$$ExternalSyntheticLambda3;->f$0:Lru/localscribe/integration/OverlayService;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onTouch(Landroid/view/View;Landroid/view/MotionEvent;)Z
+    .locals 1
+
+    iget-object v0, p0, Lru/localscribe/integration/OverlayService$$ExternalSyntheticLambda3;->f$0:Lru/localscribe/integration/OverlayService;
+
+    invoke-virtual {v0, p1, p2}, Lru/localscribe/integration/OverlayService;->lambda$attach$4$ru-localscribe-integration-OverlayService(Landroid/view/View;Landroid/view/MotionEvent;)Z
+
+    move-result p1
+
+    return p1
+.end method

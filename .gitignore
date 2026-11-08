@@ -8,3 +8,4 @@
 **/*.keystore
 **/password.txt
 **/__pycache__/
+/artifacts/*.zip
