@@ -1,4 +1,4 @@
-﻿# LocalScribe
+# LocalScribe
 
 Android-приложение для перевода речи в текст на устройстве. Распознаёт участников, сохраняет временные метки и экспортирует результат в JSON. Обработка без облака.
 
@@ -29,7 +29,7 @@ Android-приложение для перевода речи в текст на
 - [Результаты прежних проверок](docs/TESTING.md)
 - [Происхождение исходников и UX1](docs/SOURCES.md)
 - [Исходный код](src/) и [конфигурации](config/)
-- Видео и APK: раздел Releases; ссылки добавляются после загрузки.
+- [Скачать LocalScribe.apk](https://github.com/zxcd3v/LocalScribe/releases/download/v0.9.3-UX1/LocalScribe.apk) · [Видео: импорт и офлайн-обработка](https://github.com/zxcd3v/LocalScribe/releases/download/v0.9.3-UX1/LocalScribe-demo-1.mp4)
 
 Структура материалов соответствует [шаблону организаторов](https://github.com/grigorevmp/hacathon_template).
 
