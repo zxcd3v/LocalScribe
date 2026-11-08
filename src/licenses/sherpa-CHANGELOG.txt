@@ -16,7 +16,6 @@
 * Use librosa-style fbank for streaming NeMo CTC models (#4092)
 * Add Python API for VoxLock (#4102)
 * Upload VoxLock models and test data (#4101)
-* Add CLAUDE.md with build, test and architecture guidance (#4099)
 * Add VoxLock target-speaker voice isolation to the speech denoisers (#4085)
 * Fix decoder positions of generated tokens in Canary greedy search (#4097)
 * Fix publishing flutter packages (#4091)
